@@ -1,0 +1,7 @@
+OS
+COA
+OOPS
+DS LAB
+FOS LAB
+Maths
+DBMS
