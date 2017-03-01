@@ -1,0 +1,4 @@
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments$ cd address/
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments/address$ ls
+myaddress.txt  myfile.txt  q1.txt  q2.txt
+
