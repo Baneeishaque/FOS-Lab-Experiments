@@ -1,0 +1,10 @@
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments/address$ cp myaddress1.text myaddress2.text 
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments/address$ cat myaddress1.text 
+CEO, Conut Co-Works
+Madrassa Building, Puthiyangadi
+Tirur-5, Malappuram,Kerala
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments/address$ cat myaddress2.text
+CEO, Conut Co-Works
+Madrassa Building, Puthiyangadi
+Tirur-5, Malappuram,Kerala
+
