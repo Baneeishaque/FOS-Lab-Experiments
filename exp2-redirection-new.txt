@@ -1,0 +1,19 @@
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments$ ls
+address  README.md
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments$ ls>list.txt
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments$ cat list.txt
+address
+list.txt
+README.md
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments$ ls -l
+total 12
+drwxrwxr-x 2 ccet41 ccet41 4096 Mar  1 11:39 address
+-rw-rw-r-- 1 ccet41 ccet41   27 Mar  1 11:45 list.txt
+-rw-rw-r-- 1 ccet41 ccet41   22 Mar  1 10:58 README.md
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments$ ls -l>list.txt
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments$ cat list.txt
+total 8
+drwxrwxr-x 2 ccet41 ccet41 4096 Mar  1 11:39 address
+-rw-rw-r-- 1 ccet41 ccet41    0 Mar  1 11:45 list.txt
+-rw-rw-r-- 1 ccet41 ccet41   22 Mar  1 10:58 README.md
+
