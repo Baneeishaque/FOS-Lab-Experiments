@@ -1,0 +1,14 @@
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments$ mkdir address
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments$ cd address
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments/address$ vi myaddress.txt
+i
+CEO, Conut Co-Works
+Madrassa Building, Puthiyangadi
+Tirur-5, Malappuram,Kerala
+ESC
+:wq
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments/address$ cat myaddress.txt 
+CEO, Conut Co-Works
+Madrassa Building, Puthiyangadi
+Tirur-5, Malappuram,Kerala
+
