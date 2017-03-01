@@ -1,0 +1,5 @@
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments/address$ mv myaddress.txt myaddress1.text
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments/address$ mv myfile.txt myfile1.text
+ccet41@ccet41-Veriton-Series:~/FOS-Lab-Experiments/address$ ls
+myaddress1.text  myfile1.text  q1.txt  q2.txt  q3.txt
+
